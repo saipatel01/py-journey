@@ -1,12 +1,11 @@
-#manual method
-s="sai"
-rev=""
+s = "Sai"
+rev = ""
 
 for i in s:
-    rev=i+rev
+    rev = i + rev
+
 print(rev)
 
 
-#using slicing
-s="Sai"
+s = "kumar"
 print(s[::-1])
