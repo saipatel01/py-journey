@@ -11,5 +11,4 @@ while low < high:
 else:
    print("yes")
 
-         
-
+    
