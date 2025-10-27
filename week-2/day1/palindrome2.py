@@ -6,3 +6,5 @@ def is_palindrome(s):
    
 print(is_palindrome("Hello"))  # Should be False
 print(is_palindrome("Madam"))  # Should be True
+
+
