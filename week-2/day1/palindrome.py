@@ -6,10 +6,10 @@ high=len(s)-1
 while low < high:
     if s[low]!=s[high]:
      print("no")
+     break
     low=low+1
     high=high-1
 else:
    print("yes")
 
-         
-
+    
