@@ -1,0 +1,5 @@
+print("*".isascii())
+print("-".isascii())
+print("A".isascii())
+print("a".isascii())
+print("22".isascii())
