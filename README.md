@@ -1,117 +1,239 @@
 # 🐍 Py-Journey
 
-A structured Python learning repository containing daily practice programs, string method examples, problem-solving exercises, and weekly learning progress.
+A structured Python learning repository documenting my journey from Python fundamentals to problem solving through daily practice, mini projects, and coding exercises.
 
-## 📚 About
+## 📖 About
 
-This repository documents my Python learning journey through hands-on coding practice. It contains fundamental Python concepts, problem-solving exercises, string method demonstrations, functions, lists, recursion concepts, pattern-based programs, and logical coding questions.
+This repository contains my daily Python practice programs, logical problem-solving exercises, string methods, functions, number programs, pattern programs, and beginner-level real-world applications.
+
+The goal of this repository is to strengthen Python fundamentals and build a strong foundation for Data Science, Artificial Intelligence, Machine Learning, and Placement Preparation.
+
+---
 
 ## 📂 Repository Structure
 
-```
-py-journey/
-│
-├── practice_problems/
-│   ├── armstrong.py
-│   └── even_no_in_list.py
-│
-├── string_methods/
-│   ├── count.py
-│   ├── endswith.py
-│   ├── find.py
-│   ├── index.py
-│   ├── isalnum.py
-│   ├── isalpha.py
-│   ├── isascii.py
-│   ├── isdigit.py
-│   ├── islower.py
-│   ├── isspace.py
-│   ├── isupper.py
-│   ├── join.py
-│   ├── len.py
-│   ├── replace.py
-│   ├── split.py
-│   ├── startswith.py
-│   ├── strip.py
-│   └── title.py
-│
-├── week-1/
-│   ├── day1/
-│   ├── day2/
-│   ├── day3/
-│   ├── day4/
-│   ├── day5/
-│   └── day6/
-│
-├── week-2/
-│   ├── day1/
-│   ├── day2/
-│   ├── day3/
-│   └── day4/
-│
-├── week-3/
-├── week-4/
-│
-└── README.md
-```
+### 📌 Practice Problems
+
+- Armstrong Number
+- Even Numbers in List
+
+### 📌 String Methods
+
+Python String Method Examples:
+
+- count()
+- endswith()
+- find()
+- index()
+- isalnum()
+- isalpha()
+- isascii()
+- isdigit()
+- islower()
+- isspace()
+- isupper()
+- join()
+- len()
+- replace()
+- split()
+- startswith()
+- strip()
+- title()
 
 ---
 
-## 🚀 Topics Covered
+# Week 1
 
-### Week 1
-- Python Basics
+## Day 1
 - Variables
-- Input & Output
-- Conditional Statements
-- Nested If
+- Sum of Numbers
+- Swap Numbers
+
+## Day 2
+- If Else
+- Elif Ladder
+- Largest of Three Numbers
 - Leap Year Program
-- Functions
-- Function Arguments
+- Nested If
+
+## Day 3
+- Calculator Program
+- Fibonacci Series
+- Functions Basics
+- Function Examples
+
+## Day 4
 - Lists
 - Strings
 - Type Conversion
+- Data Types
+- Function Examples
+
+## Day 5
+- Default Arguments
+- Parameter Passing
+- Variable Length Arguments
+
+## Day 6
 - Return Values
-
-### Week 2
-- String Reversal
-- Palindrome Programs
-- String Slicing
-- Pattern Searching
-- Case Conversion
-- Sets
-- Prime Number Programs
-- List Operations
-
-### String Methods
-Examples of commonly used Python string methods:
-
-- `count()`
-- `find()`
-- `index()`
-- `split()`
-- `join()`
-- `replace()`
-- `strip()`
-- `title()`
-- `startswith()`
-- `endswith()`
-- `isalpha()`
-- `isdigit()`
-- `isalnum()`
-- `islower()`
-- `isupper()`
-- `isspace()`
-- `isascii()`
-
-### Practice Problems
-- Armstrong Number
-- Even Numbers in List
-- Logical Programming Problems
+- Multiple Return Values
 
 ---
 
-## 🛠️ Technologies Used
+# Week 2
+
+## Day 1
+- Palindrome String
+- Reverse String
+
+## Day 2
+- Change Case
+- Pattern Finding
+- Print Alphabets
+- String Slicing
+
+## Day 3
+- Find Index
+- Sets
+
+## Day 4
+- Sorted List
+- Prime Number
+- Sum of List Elements
+
+## Day 5
+- Divisors
+- GCD
+- LCM
+
+---
+
+# Week 3
+
+## Day 1
+- Factorial
+- Filter Function
+- Map Function
+
+## Day 2
+- Even Odd Game
+- Biggest Number
+- Square Pattern
+
+## Day 3
+- Pattern Programs
+- Reverse Pattern
+- Name Pattern
+
+## Day 4
+- Factorial Program
+- Sum of 3 Digits
+- Swap Numbers
+- Swap List Elements
+
+## Day 5
+- Celsius to Fahrenheit
+- Factorial Program
+- Pyramid Pattern
+- Sum of Digits
+- Sum of Digits (Alternative Method)
+
+---
+
+# Week 4
+
+## Day 1 - Mini Real-World Projects
+
+- ATM Withdrawal Simulator
+- Battery Percentage Checker
+- Grocery Bill Calculator
+- Movie Ticket Booking
+- Speed Limit Monitor
+- Alarm Checker
+- Daily Expense Tracker
+- Phone Lock Checker
+- Power Bill Checker
+- Temperature Advisor
+- Water Intake Tracker
+
+## Day 2 - Number Programs
+
+- Armstrong Number
+- Count Digits
+- Palindrome Number
+- Reverse Number
+
+## Day 3
+
+- GCD
+- LCM
+- Perfect Number
+
+## Day 4 - Pattern Programs
+
+- Inverted Triangle
+- Left Triangle
+- Square Pattern
+
+## Day 5 - Advanced Patterns
+
+- Pyramid Pattern
+- Inverted Pyramid
+- Star Pattern
+
+---
+
+## 🚀 Skills Practiced
+
+### Python Fundamentals
+- Variables
+- Data Types
+- Operators
+- Input/Output
+
+### Control Flow
+- If Else
+- Elif
+- Nested If
+
+### Functions
+- Function Creation
+- Parameters
+- Return Values
+- Variable Length Arguments
+
+### Data Structures
+- Lists
+- Sets
+- Strings
+
+### String Manipulation
+- String Methods
+- String Searching
+- String Slicing
+
+### Number Programs
+- Armstrong Number
+- Palindrome Number
+- GCD
+- LCM
+- Perfect Number
+- Factorial
+
+### Pattern Programming
+- Square Patterns
+- Triangle Patterns
+- Pyramid Patterns
+- Inverted Patterns
+
+### Problem Solving
+- Logical Thinking
+- Basic Algorithms
+- Real-World Python Applications
+
+---
+
+## 🛠 Technologies Used
 
 - Python 3.x
 - VS Code
@@ -120,22 +242,24 @@ Examples of commonly used Python string methods:
 
 ---
 
-## 🎯 Learning Goals
+## 🎯 Learning Objectives
 
 - Build strong Python fundamentals
-- Improve problem-solving skills
-- Master Python data structures
+- Improve logical thinking
+- Master problem-solving skills
 - Prepare for coding interviews
-- Build a solid foundation for Data Science, AI & Machine Learning
+- Build a foundation for Data Science & AI/ML
+- Learn clean coding practices
 
 ---
 
-## 📈 Progress
+## 📈 Progress Tracker
 
 - ✅ Week 1 Completed
 - ✅ Week 2 Completed
-- 🔄 Week 3 In Progress
-- 🔄 Week 4 In Progress
+- ✅ Week 3 Completed
+- ✅ Week 4 Completed
+- 🚀 Continuing Daily Python Practice
 
 ---
 
@@ -143,11 +267,11 @@ Examples of commonly used Python string methods:
 
 **Pasunuti Saikumar**
 
-B.Tech CSE (AI & ML)  
-Siddhartha Institute of Technology and Sciences, Hyderabad
+🎓 B.Tech CSE (AI & ML)  
+🏫 Siddhartha Institute of Technology and Sciences, Hyderabad
 
 GitHub: https://github.com/saipatel01
 
 ---
 
-### ⭐ If you find this repository useful, consider giving it a star.
+⭐ If you like this repository, consider giving it a star.
