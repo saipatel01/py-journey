@@ -41,7 +41,17 @@ Python String Method Examples:
 - title()
 
 ---
-
+## typecasting
+- int
+- float
+- complex
+- bool
+- string
+- list
+- tuple
+- set
+- dictionary
+  
 # Week 1
 
 ## Day 1
