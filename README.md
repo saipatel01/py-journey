@@ -11,6 +11,14 @@ The goal of this repository is to strengthen Python fundamentals and build a str
 ---
 
 ## 📂 Repository Structure
+### 📌 Arithmetic Operator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Floor Division
+- Modulo
+- Exponent
 
 ### 📌 Practice Problems
 
