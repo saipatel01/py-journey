@@ -13,5 +13,5 @@ print(list(s))#['sai', 139, 2.0, 11]
 
 print(tuple(s))#['sai', 139, 2.0, 11]
 
-print(set(s))
-print(dict(s))
+print(set(s))#{11, 2.0, 139, 'sai'}
+print(dict(s))#ValueError: dictionary update sequence element #0 has length 3; 2 is required

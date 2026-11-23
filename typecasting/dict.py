@@ -4,8 +4,7 @@ print(type(s))#<class 'set'>
 #print(int(s)) #TypeError: int() argument must be a string, a bytes-like object or a real number, not 'dict'
 
 #print(float(s)) #TypeError: float() argument must be a string or a real number, not 'dict'
-print(complex(s))#TypeError: complex() first argument must be a string or a number, not 'set'
-
+#print(complex(s))#TypeError: complex() first argument must be a string or a number, not 'dict'
 print(bool(s))#True
 print(str(s))#{'sai': 139, 'kumar': 2, 'sathvika': 11}
 

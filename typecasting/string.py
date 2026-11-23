@@ -12,5 +12,5 @@ print(str(s))#sai
 
 print(list(s))#['s', 'a', 'i']
 print(tuple(s))#('s', 'a', 'i')
-print(set(s))
-print(dict(s))
+print(set(s))#{'a', 's', 'i'}
+print(dict(s))#ValueError: dictionary update sequence element #0 has length 1; 2 is required

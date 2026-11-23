@@ -4,7 +4,7 @@ print(type(s))#<class 'set'>
 #print(int(s)) #TypeError: int() argument must be a string, a bytes-like object or a real number, not 'set'
 
 #print(float(s)) #TypeError: float() argument must be a string or a real number, not 'set'
-print(complex(s))#TypeError: complex() first argument must be a string or a number, not 'tuple'
+#print(complex(s))#TypeError: complex() first argument must be a string or a number, not 'set'
 
 print(bool(s))#True
 print(str(s))#{2.0, 11, 139, 'sai'}

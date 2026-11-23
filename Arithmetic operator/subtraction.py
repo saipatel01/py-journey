@@ -95,12 +95,12 @@ print(True-True) #0
 
 
 #dict
-print({'sai':'kumar','patel':'saab'}-2) #TypeError: unsupported operand type(s) for +: 'dict' and 'int'
-print({'sai':'kumar','patel':'saab'}-3.0)#TypeError: unsupported operand type(s) for +: 'dict' and 'float'
-print({'sai':'kumar','patel':'saab'}-(10+4j))#TypeError: unsupported operand type(s) for +: 'dict' and 'complex'
-print({'sai':'kumar','patel':'saab'}-True) #TypeError: unsupported operand type(s) for +: 'dict' and 'bool'
-print({'sai':'kumar','patel':'saab'}-"sai") #TypeError: unsupported operand type(s) for +: 'dict' and 'str'
-print({'sai':'kumar','patel':'saab'}-[20,30]) #TypeError: unsupported operand type(s) for +: 'dict' and 'list'
-print({'sai':'kumar','patel':'saab'}-(40,59))#TypeError: unsupported operand type(s) for +: 'dict' and 'tuple'
-print({'sai':'kumar','patel':'saab'}-{2,3,4}) #TypeError: unsupported operand type(s) for +: 'dict' and 'set'
-print({'sai':'kumar','patel':'saab'}-{2:3,5:5}) #TypeError: unsupported operand type(s) for +: 'dict' and 'dict'
+#print({'sai':'kumar','patel':'saab'}-2) #TypeError: unsupported operand type(s) for -: 'dict' and 'int'
+#print({'sai':'kumar','patel':'saab'}-3.0)#TypeError: unsupported operand type(s) for -: 'dict' and 'float'
+#print({'sai':'kumar','patel':'saab'}-(10+4j))#TypeError: unsupported operand type(s) for -: 'dict' and 'complex'
+#print({'sai':'kumar','patel':'saab'}-True) #TypeError: unsupported operand type(s) for -: 'dict' and 'bool'
+#print({'sai':'kumar','patel':'saab'}-"sai") #TypeError: unsupported operand type(s) for -: 'dict' and 'str'
+#print({'sai':'kumar','patel':'saab'}-[20,30]) #TypeError: unsupported operand type(s) for -: 'dict' and 'list'
+#print({'sai':'kumar','patel':'saab'}-(40,59))#TypeError: unsupported operand type(s) for -: 'dict' and 'tuple'
+#print({'sai':'kumar','patel':'saab'}-{2,3,4}) #TypeError: unsupported operand type(s) for -: 'dict' and 'set'
+#print({'sai':'kumar','patel':'saab'}-{2:3,5:5}) #TypeError: unsupported operand type(s) for -: 'dict' and 'dict'
