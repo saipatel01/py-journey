@@ -9,3 +9,6 @@ if s==rev:
     print(f"{s} is a palindrome")
 else:
     print(f"{s} is not a palindrome")
+    '''
+    enter the string:madam
+madam is a palindrome'''

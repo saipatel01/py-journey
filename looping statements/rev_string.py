@@ -8,7 +8,7 @@ while i<len(s):
 print(rev) #nohtyp
 
 #method 2
-s=input("enter the string:")
+s=input("enter the string:") #kumar
 i=0
 rev=""
 length=len(s)-1
@@ -16,4 +16,4 @@ while length>=i:
     char=s[length]
     rev=rev+char
     length-=1
-print(rev)
+print(rev) #ramuk

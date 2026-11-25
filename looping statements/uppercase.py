@@ -8,3 +8,7 @@ while i<len(s):
         if i%3==0:
             print(char)
     i+=1
+"""H
+L
+W
+L"""

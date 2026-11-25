@@ -21,3 +21,5 @@ d["digit"]=digit
 d["special character"]=sc
 print(d)
 
+'''
+{'upper case': ['A', 'B', 'C'], 'lower case': ['x', 'y', 'z'], 'digit': ['1', '2', '3'], 'special character': ['%', '$', '#', '@']}'''
